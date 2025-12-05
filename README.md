@@ -1,6 +1,6 @@
 # NASA Mission Control Project 🚀
 
-A full-stack **MERN** application built as part of the **"Complete Node.js Developer"** course by Andrei Neagoie (Zero to Mastery). This project simulates a mission control dashboard that allows users to schedule launches to habitable exoplanets using real-world data.
+A full-stack **MERN** application built as part of the **"Complete Node.js Developer"** course by Andrei Neagoie (Zero to Mastery Academy) at Udemy. This project simulates a mission control dashboard that allows users to schedule launches to habitable exoplanets using real-world data.
 
 ## 🌟 Features
 
@@ -61,3 +61,4 @@ This project follows the **MVC (Model-View-Controller)** pattern and separates t
 The project includes tests using **Jest** and **Supertest**.
 ```bash
 npm test
+```
